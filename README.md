@@ -1,5 +1,4 @@
 # App
-Nutrionist
 import sys
 
 def get_valid_input(prompt, type_func, validation_func=None, error_message="Invalid input. Please try again."):
